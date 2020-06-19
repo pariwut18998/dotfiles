@@ -1,0 +1,4 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =2
+let g:netrw_dirhist_2='/home/yamato19/projectS/local/v_1/project/.git'
+let g:netrw_dirhist_1='/home/yamato19/Downloads/dock6/tutorials/amber_scoring_demo'
